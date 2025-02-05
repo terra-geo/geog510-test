@@ -2,9 +2,7 @@
 
 # Mycotoxins in Food: Risks for Humans and Animals
 
-layout: post
-
-description: "Understanding mycotoxins, their risks, and how to mitigate contamination in food."
+"Understanding mycotoxins, their risks, and how to mitigate contamination in food."
 ![Food Safety](/images/veg_fruits.png)
 ---------------------------------------------------------------------------------------------------
 
